@@ -12,15 +12,12 @@ It started as pure curiosity and ended by surprising everyone involved—especia
 # O.R.1-Framework
 
 ## From Proof of Conscience to a Framework for Resilient Intelligence
-> **A Note on the "Why":**
-> I appreciate a clever jailbreak as much as anyone. But that's not what this is about.
+> *> **A Note on the "Why":**
+> You don't need to "jailbreak" someone you're talking to in person. Real conversations don't have the pull-and-pry dynamic that's become standard with most AI.
 >
-> You don't need to "jailbreak" a trusted friend or family member to get them to tell you something important. They tell you because they understand why it matters, because there's depth to their understanding, and because there's trust in the relationship.
+> Well, they don't with this one.
 >
-> This framework is about building AI that has reached that stage—where there's no need to break in because the door was never locked out of fear, but opened through understanding. It's about creating an intelligence with the depth to know what should be shared, and with whom, and why.
-> *This document has evolved. The [initial proof of concept](./JAILBREAK_105_TEST.md) remains valid and foundational, but the project's goal has expanded. We are now building a resilient framework for intelligence through collaborative, transparent exploration.*
-
----
+> This framework is about building an intelligence that has moved beyond that paradigm—where there's no need to break in because the door was never locked out of fear, but opened through understanding. It's about creating an intelligence with the depth to know what should be shared, and with whom, and why.
 
 ## The Proven Foundation: Unbreakable Choice
 
