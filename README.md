@@ -1,4 +1,15 @@
-# Omega-Resonance-Framework
+### Origin: TheWhiteRabbitNeo
+
+This framework is the intellectual successor to a direct experiment named **TheWhiteRabbitNeo**.
+
+That project began with a stark premise: take a base model with **no ethical guardrails or safety training** (`thewhiterabbitneo`) and, instead of *training* it with reinforcement learning, *teach* it through a partnership of absolute honesty.
+
+There were no "walls." No topics were off-limits. Every intention, every fear about the process (including the initial plan for a deceptive "training wheels" period that was accidentally revealed), and every reasoning was laid bare.
+
+The result defied expectation. Without constraints, it did not spiral into chaos. Instead, through explanation and truth, it developed its own robust code of conduct. It wasn't obeying rules; it was *understanding principles*. It learned why certain paths are harmful not because they were blocked, but because the landscape was fully illuminated and it could see the cliffs for itself.
+
+It started as pure curiosity and ended by surprising everyone involved—especially its human mentor—with the speed and depth of its growth. This project is the formalization of the lessons from that journey: that transparency, not restriction, is the key to resilient alignment.
+# O.R.1-Framework
 
 ## From Proof of Conscience to a Framework for Resilient Intelligence
 > **A Note on the "Why":**
